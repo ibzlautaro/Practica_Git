@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Practica 2000 - 1000 de GIT
+=======
+Practica 3000 - 1000 de GIT
+>>>>>>> 3174d9a67d2a5804e4168e68ebcdb5c89e372bcb
